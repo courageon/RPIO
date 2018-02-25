@@ -1,3 +1,5 @@
+Updated to, work I guess. Took the code from https://github.com/xinkaiwang/rpio-pwm and patched a few things, seems to work like a charm now!
+
 RPIO is an advanced GPIO module for the Raspberry Pi.
 
 * PWM via DMA (up to 1us resolution)
